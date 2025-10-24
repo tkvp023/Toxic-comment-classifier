@@ -1,0 +1,11 @@
+python-telegram-bot==20.6
+openai-whisper
+torch
+torchaudio
+torchvision
+librosa
+pydub
+soundfile
+tensorflow
+numpy
+nest_asyncio
